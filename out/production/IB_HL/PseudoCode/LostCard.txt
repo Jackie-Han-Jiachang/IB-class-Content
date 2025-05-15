@@ -1,0 +1,7 @@
+input (number)
+realSum = ((1 + number) * number)/2
+sum = 0
+Loop i from 0 to number-1
+    sum = sum + input(int)
+end Loop
+output (realSum - sum)

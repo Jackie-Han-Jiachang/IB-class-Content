@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/jackyhan/Documents/javafx-sdk-23.0.1/lib/**/*.jar",
+        "/Users/jackyhan/Documents/fastjson2-2.0.53.jar"
+    ]
+}

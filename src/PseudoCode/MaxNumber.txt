@@ -1,0 +1,11 @@
+max = input(int)
+    Loop i from 0 - 9
+        temp = input(int)
+        if max < temp then
+            max = temp
+        end if
+    end Loop
+output max
+
+
+

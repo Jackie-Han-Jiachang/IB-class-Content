@@ -1,0 +1,26 @@
+counter = 0.0
+sum = 0.0
+Input number
+highest = number
+lowest = number
+sum = sum + number
+counter = counter + 1
+
+while counter <= 999:
+    Input number
+    while number <1000 and number > 0 and number div 1 == number/1:
+        if (number > highest):
+            highest = number
+        end if
+        else if (number<lowest):
+            lowest = number
+        end if
+
+        sum = sum + number
+        counter = counter + 1
+    end while
+end while
+
+Output highest
+Output lowest
+Output sum/counter

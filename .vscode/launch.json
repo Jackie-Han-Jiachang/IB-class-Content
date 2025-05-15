@@ -1,0 +1,110 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DemoHTTPServer",
+            "request": "launch",
+            "mainClass": "Test.DemoHTTPServer",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "TranslatorService",
+            "request": "launch",
+            "mainClass": "TranslatorService",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "TranslatorClient",
+            "request": "launch",
+            "mainClass": "TranslatorClient",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "GradeBinaryExample",
+            "request": "launch",
+            "mainClass": "GradeBinaryExample",
+            "projectName": "IB_HL_8cb7abe7"
+        },
+        {
+            "type": "java",
+            "name": "Shelter",
+            "request": "launch",
+            "mainClass": "Shelter.Shelter",
+            "projectName": "IB_HL_8cb7abe7"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "InterestingThings.transpose",
+            "projectName": "IB_HL_8cb7abe7"
+        },
+        {
+            "type": "java",
+            "name": "AddStudents",
+            "request": "launch",
+            "mainClass": "AddStudents",
+            "projectName": "IB_HL_8cb7abe7"
+        },
+        {
+            "type": "java",
+            "name": "Vagetables",
+            "request": "launch",
+            "mainClass": "VagetableExample.Vagetables",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "Vagetables",
+            "request": "launch",
+            "mainClass": "Vagetables",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "Cafeteria",
+            "request": "launch",
+            "mainClass": "Cafeteria",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "FactorialExamples",
+            "request": "launch",
+            "mainClass": "Recursion.FactorialExamples",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "InterestingThings.transpose",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test.Test",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "Collection.BST",
+            "projectName": "IB_HL_18a5f2c7"
+        },
+        {
+            "type": "java",
+            "name": "GPACalculatorApp",
+            "request": "launch",
+            "mainClass": "GPACalculator.GPACalculatorApp",
+            "projectName": "IB_HL_18a5f2c7",
+            "vmArgs": "--module-path /Users/jackyhan/Documents/javafx-sdk-23.0.1/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

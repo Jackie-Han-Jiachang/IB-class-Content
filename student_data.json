@@ -1,0 +1,44 @@
+{
+	"GPA":1.43,
+	"courses":[
+		{
+			"courseName":"Physics HL",
+			"courseScore":53,
+			"tests":[
+				{
+					"date":"2024-12-13",
+					"score":7,
+					"type":"Major"
+				},
+				{
+					"date":"2024-12-07",
+					"score":98,
+					"type":"Major"
+				}
+			]
+		},
+		{
+			"courseName":"Physics SL",
+			"courseScore":98,
+			"tests":[
+				{
+					"date":"2024-12-19",
+					"score":98,
+					"type":"Minor"
+				}
+			]
+		},
+		{
+			"courseName":"Computer Science HL",
+			"courseScore":55,
+			"tests":[
+				{
+					"date":"2024-12-05",
+					"score":55,
+					"type":"Major"
+				}
+			]
+		}
+	],
+	"name":"Jackie"
+}
