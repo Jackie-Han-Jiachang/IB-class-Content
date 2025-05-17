@@ -1,0 +1,10 @@
+//from array to queue
+counter = 0
+loop counter from 0 to array.length
+    Q.enqueue(line[counter])
+end loop
+
+//print values from queue
+loop while !Q.isEmpty()
+    Print(Q.dequeue())
+end loop

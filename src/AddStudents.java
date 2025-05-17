@@ -1,4 +1,3 @@
-package VagetableExample;
 
 import java.io.File;
 import java.io.FileWriter;

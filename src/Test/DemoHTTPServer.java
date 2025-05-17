@@ -15,7 +15,6 @@ public class DemoHTTPServer {
             while (true) {
                 Socket client = server.accept();
                 System.out.println("Someone connected!!");
-
                 BufferedReader in = new BufferedReader(new InputStreamReader(client.getInputStream()));
                 PrintWriter out = new PrintWriter(client.getOutputStream(), true);
 

@@ -1,0 +1,10 @@
+// from collection to stack
+Line.resetNext()
+loop while line.hasNext()
+    S.push(line.getNext())
+end loop
+
+// print out stack
+loop whlie !line.isEmpty()
+    Print(line.pop())
+end loop

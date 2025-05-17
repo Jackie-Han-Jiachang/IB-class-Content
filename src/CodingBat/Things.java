@@ -94,7 +94,7 @@ public class Things {
         }
         return sum - tempSum;
     }
-    public int sum67(int[] nums) {
+    public int sum647(int[] nums) {
         int sum = 0;
         boolean inSection = false;
     
@@ -169,7 +169,7 @@ public class Things {
         return ret;
     }
 
-    public String stringX(String str) {
+    public String stringYX(String str) {
         boolean head = false;
         boolean tail = false;
         String temp = str.replace("x", "");
@@ -209,7 +209,7 @@ public class Things {
         return result;
     }
 
-    public String stringYak(String str) {
+    public String stringYak1(String str) {
         String temp = "";
         boolean inSection = false;
     
